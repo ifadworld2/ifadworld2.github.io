@@ -1,8 +1,8 @@
 {
-  "name": "PWA App",
-  "short_name": "PWA",
-  "theme_color": "#2117ee",
-  "background_color": "#d5d5d5",
+  "name": "Techtona App",
+  "short_name": "Techtona",
+  "theme_color": "#6f6f76",
+  "background_color": "#b8bbbe",
   "display": "fullscreen",
   "orientation": "portrait",
   "Scope": "/",
